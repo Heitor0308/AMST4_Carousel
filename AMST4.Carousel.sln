@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AMST4.Carousel.MVC", "AMST4.Carousel.MVC\AMST4.Carousel.MVC.csproj", "{6BFE5C38-1B71-489F-8754-19F47F597E39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BFE5C38-1B71-489F-8754-19F47F597E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BFE5C38-1B71-489F-8754-19F47F597E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BFE5C38-1B71-489F-8754-19F47F597E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BFE5C38-1B71-489F-8754-19F47F597E39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74F17B60-92B0-4D18-9A40-3E17FE8C4713}
+	EndGlobalSection
+EndGlobal
